@@ -5,3 +5,6 @@ I'm a designer by background, but now I'm fully focused on Front-end development
 Sou designer de formação, mas agora estou totalmente focado em **desenvolvimento Front-End** e ansioso para aprofundar meus conhecimentos nessa área.
 
 :vulcan_salute:
+
+Projeto Jogo da Velha:
+https://leandromendess1.github.io/Jogo-da-Velha/
